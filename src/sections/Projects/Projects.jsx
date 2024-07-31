@@ -11,8 +11,6 @@ function Projects() {
             link='https://github.com/JKRigor/telebet'
             h3="Telebet"
             p="Online Gadgets Store"/>
-        </div>
-        <div className={styles.projectsContainer}>
             <ProjectCard src={td} 
             link='https://github.com/JKRigor/ToDo'
             h3="ToDo List"
